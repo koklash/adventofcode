@@ -1,0 +1,3 @@
+/Users/nmi/Projects/adventofcode/day2/colution/cmake-build-debug/CMakeFiles/colution.dir
+/Users/nmi/Projects/adventofcode/day2/colution/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/nmi/Projects/adventofcode/day2/colution/cmake-build-debug/CMakeFiles/rebuild_cache.dir
