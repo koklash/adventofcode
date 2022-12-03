@@ -1,0 +1,3 @@
+/Users/nmi/Projects/adventofcode/day3/rucksacking/cmake-build-debug/CMakeFiles/rucksacking.dir
+/Users/nmi/Projects/adventofcode/day3/rucksacking/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/nmi/Projects/adventofcode/day3/rucksacking/cmake-build-debug/CMakeFiles/rebuild_cache.dir
